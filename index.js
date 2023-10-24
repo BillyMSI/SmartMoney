@@ -124,4 +124,4 @@ setInterval(async () => {
   updateRoles();
 }, 43200000);
 
-client.login(process.env.token);
+client.login(token);
